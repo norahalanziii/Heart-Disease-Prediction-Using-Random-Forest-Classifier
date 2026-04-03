@@ -1,6 +1,5 @@
 # 🫀 Heart Disease Prediction Using Random Forest Classifier
 
----
 
 ---
 
